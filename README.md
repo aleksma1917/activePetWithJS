@@ -1,2 +1,2 @@
-# activePetWithJS
-project with start JS
+# active-pet
+без js не реализовать 
